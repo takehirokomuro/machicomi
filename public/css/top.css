@@ -1,0 +1,45 @@
+.html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #f7f7f7 url(/images/shiba.jpg?979ea8c623bb553038d853ca2c77c33d) center top/cover no-repeat;
+}
+
+#container {
+  position: relative;
+  min-height: 100%;
+}
+
+.header-title-area {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.logo {
+  max-width: 50%;
+  font-size: 80px;
+  margin: 0 auto auto 550px;
+  color: #000;
+}
+
+.text-sub {
+  max-width: 50%;
+  margin: 0px auto auto 550px;
+}
+
+.footer {
+  height: 50px;
+  width: 100%;
+  color: #000;
+  clear: both;
+  position: absolute;
+  bottom: 0;
+  font-size: 20px;
+}
+
+#footer-menu ul li {
+  display: inline;
+  margin-right: 50px;
+}
+
